@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:black');
+
 body {
   background: #333;
 }
@@ -25,12 +27,11 @@ body .center .select-button {
 
 body .center .select-button p {
 
-  font-family:"Helvetica";
+  font-family:'Montserrat', sans-serif;
   font-size:20px;
   line-height:1.2;
   padding:65px 0;
   color:white;
-  weight:bold;
 
 }
 
